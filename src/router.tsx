@@ -16,49 +16,50 @@ export const router = createBrowserRouter(
     {
       path: '/',
       element: <Layout />,
-    children: [
-      {
-        index: true,
-        element: <Home />,
-      },
-      {
-        path: 'beds',
-        element: <Beds />,
-      },
-      {
-        path: 'couches',
-        element: <Couches />,
-      },
-      {
-        path: 'tables',
-        element: <Tables />,
-      },
-      {
-        path: 'fabrics',
-        element: <Fabrics />,
-      },
-      {
-        path: ':category/product/:slug',
-        element: <ProductDetail />,
-      },
-      {
-        path: 'favorites',
-        element: <Favorites />,
-      },
-      {
-        path: 'about',
-        element: <About />,
-      },
-      {
-        path: 'contact',
-        element: <Contact />,
-      },
-      {
-        path: '*',
-        element: <NotFound />,
-      },
-    ],
-  },
+      children: [
+        {
+          index: true,
+          element: <Home />,
+        },
+        {
+          path: 'beds',
+          element: <Beds />,
+        },
+        {
+          path: 'couches',
+          element: <Couches />,
+        },
+        {
+          path: 'tables',
+          element: <Tables />,
+        },
+        {
+          path: 'fabrics',
+          element: <Fabrics />,
+        },
+        {
+          path: ':category/product/:slug',
+          element: <ProductDetail />,
+        },
+        {
+          path: 'favorites',
+          element: <Favorites />,
+        },
+        {
+          path: 'about',
+          element: <About />,
+        },
+        {
+          path: 'contact',
+          element: <Contact />,
+        },
+        {
+          path: '*',
+          element: <NotFound />,
+        },
+      ],
+    },
+  ],
   {
     basename: import.meta.env.BASE_URL,
   }
