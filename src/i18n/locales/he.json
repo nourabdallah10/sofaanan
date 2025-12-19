@@ -1,0 +1,107 @@
+{
+  "common": {
+    "home": "בית",
+    "about": "אודות",
+    "contact": "צור קשר",
+    "products": "מוצרים",
+    "collections": "קולקציות",
+    "search": "חיפוש",
+    "menu": "תפריט",
+    "close": "סגור",
+    "language": "שפה",
+    "theme": "ערכת נושא",
+    "light": "בהיר",
+    "dark": "כהה",
+    "viewAll": "צפה בכל",
+    "browseProducts": "עיין במוצרים",
+    "noProductsFound": "לא נמצאו מוצרים",
+    "loading": "טוען...",
+    "error": "שגיאה",
+    "retry": "נסה שוב"
+  },
+  "header": {
+    "logo": "בהה ריהוט",
+    "nav": {
+      "home": "בית",
+      "beds": "מיטות",
+      "couches": "ספות",
+      "tables": "שולחנות",
+      "fabrics": "בדים",
+      "favorites": "מועדפים",
+      "about": "אודותינו",
+      "contact": "צור קשר"
+    }
+  },
+  "footer": {
+    "description": "ריהוט יוקרתי לביתכם",
+    "quickLinks": "קישורים מהירים",
+    "contact": "יצירת קשר",
+    "followUs": "עקבו אחרינו",
+    "rights": "כל הזכויות שמורות",
+    "craftedMessage": "מיוצר במיומנות מעץ איכותי ובבדים יוקרתיים הניתנים לכביסה, כל פריט מותאם לחלל שלכם ומותאם אישית לחזון שלכם.",
+    "whatsappContact": "צרו איתנו קשר בוואטסאפ:"
+  },
+  "categories": {
+    "beds": "מיטות",
+    "couches": "ספות",
+    "tables": "שולחנות",
+    "fabrics": "בדים",
+    "description": {
+      "beds": "גלו את אוסף המיטות היוקרתי שלנו",
+      "couches": "גלו את אוסף הספות היוקרתי שלנו",
+      "tables": "גלו את אוסף השולחנות היוקרתי שלנו",
+      "fabrics": "גלו את אוסף הבדים היוקרתי שלנו"
+    }
+  },
+  "home": {
+    "title": "ברוכים הבאים לבהה ריהוט",
+    "subtitle": "גלו ריהוט יוקרתי לביתכם",
+    "featuredCategories": "קטגוריות מומלצות"
+  },
+  "product": {
+    "description": "תיאור קצר",
+    "fullDescription": "תיאור מלא",
+    "specifications": "מפרטים",
+    "dimensions": "מידות",
+    "materials": "חומרים",
+    "width": "רוחב",
+    "height": "גובה",
+    "depth": "עומק",
+    "price": "מחיר",
+    "category": "קטגוריה",
+    "relatedProducts": "מוצרים קשורים",
+    "addToFavorites": "הוסף למועדפים",
+    "removeFromFavorites": "הסר ממועדפים",
+    "favorited": "הוסר ממועדפים",
+    "contactUs": "צור קשר",
+    "previousImage": "תמונה קודמת",
+    "nextImage": "תמונה הבאה",
+    "imageCounter": "{{current}} / {{total}}"
+  },
+  "favorites": {
+    "title": "מועדפים",
+    "count": "יש לך {{count}} {{count, plural, one {מוצר} other {מוצרים}}} במועדפים",
+    "emptyTitle": "אין מוצרים במועדפים",
+    "emptyDescription": "עדיין לא הוספת מוצרים למועדפים. התחל לעיין באוסף שלנו והוסף את המוצרים שאתה אוהב.",
+    "removeFromFavorites": "הסר ממועדפים"
+  },
+  "pages": {
+    "about": {
+      "title": "אודותינו",
+      "content": "דף אודות בקרוב..."
+    },
+    "contact": {
+      "title": "צור קשר",
+      "content": "דף יצירת קשר בקרוב..."
+    },
+    "notFound": {
+      "title": "404",
+      "subtitle": "הדף לא נמצא",
+      "description": "הדף שאתה מחפש לא קיים.",
+      "goHome": "חזור לבית"
+    }
+  },
+  "breadcrumb": {
+    "home": "בית"
+  }
+}

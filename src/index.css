@@ -1,0 +1,389 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Font families - with Hebrew support */
+    --font-primary: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Arial Hebrew', 'David', sans-serif;
+    --font-serif: 'Playfair Display', 'Georgia', 'David', serif;
+    --font-display: 'Montserrat', 'Arial', 'Arial Hebrew', 'David', sans-serif;
+
+    /* Light mode colors - luxury furniture palette (WCAG AA compliant) */
+    --color-light-bg-primary: #ffffff;
+    --color-light-bg-secondary: #f8f9fa;
+    --color-light-bg-accent: #f0f0f0;
+    --color-light-text-primary: #0a0a0a;
+    --color-light-text-secondary: #4a4a4a;
+    --color-light-text-accent: #7a5f3f;
+    
+    /* Light mode shadows and borders */
+    --color-light-border: rgba(0, 0, 0, 0.1);
+    --color-light-shadow: rgba(0, 0, 0, 0.08);
+
+    /* Dark mode colors - luxury furniture palette (WCAG AA compliant) */
+    --color-dark-bg-primary: #0f0f0f;
+    --color-dark-bg-secondary: #1a1a1a;
+    --color-dark-bg-accent: #242424;
+    --color-dark-text-primary: #f5f5f5;
+    --color-dark-text-secondary: #c0c0c0;
+    --color-dark-text-accent: #d4af7a;
+    
+    /* Dark mode shadows and borders */
+    --color-dark-border: rgba(255, 255, 255, 0.1);
+    --color-dark-shadow: rgba(0, 0, 0, 0.3);
+
+    /* Theme transition duration */
+    --theme-transition-duration: 0.3s;
+    --theme-transition-timing: cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  /* Light mode theme (default) */
+  :root,
+  :root[data-theme="light"] {
+    --color-bg-primary: var(--color-light-bg-primary);
+    --color-bg-secondary: var(--color-light-bg-secondary);
+    --color-bg-accent: var(--color-light-bg-accent);
+    --color-text-primary: var(--color-light-text-primary);
+    --color-text-secondary: var(--color-light-text-secondary);
+    --color-text-accent: var(--color-light-text-accent);
+    --color-border: var(--color-light-border);
+    --color-shadow: var(--color-light-shadow);
+  }
+
+  /* Dark mode theme */
+  :root[data-theme="dark"],
+  .dark {
+    --color-bg-primary: var(--color-dark-bg-primary);
+    --color-bg-secondary: var(--color-dark-bg-secondary);
+    --color-bg-accent: var(--color-dark-bg-accent);
+    --color-text-primary: var(--color-dark-text-primary);
+    --color-text-secondary: var(--color-dark-text-secondary);
+    --color-text-accent: var(--color-dark-text-accent);
+    --color-border: var(--color-dark-border);
+    --color-shadow: var(--color-dark-shadow);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    /* Smooth theme transitions */
+    transition: background-color var(--theme-transition-duration) var(--theme-transition-timing),
+                color var(--theme-transition-duration) var(--theme-transition-timing);
+  }
+
+  body {
+    background-color: var(--color-bg-primary);
+    color: var(--color-text-primary);
+    font-family: var(--font-primary);
+    /* Smooth theme transitions */
+    transition: background-color var(--theme-transition-duration) var(--theme-transition-timing),
+                color var(--theme-transition-duration) var(--theme-transition-timing);
+  }
+
+  /* RTL support */
+  [dir="rtl"] {
+    direction: rtl;
+  }
+
+  [dir="ltr"] {
+    direction: ltr;
+  }
+
+  /* Luxury typography - Enhanced */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    line-height: 1.15;
+    color: var(--color-text-primary);
+  }
+
+  h1 {
+    font-size: clamp(2rem, 5vw, 3.75rem);
+    letter-spacing: -0.04em;
+    line-height: 1.1;
+  }
+
+  h2 {
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    letter-spacing: -0.03em;
+    line-height: 1.15;
+  }
+
+  h3 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+  }
+
+  /* Body text - Enhanced readability */
+  body, p {
+    font-size: 1rem;
+    line-height: 1.7;
+    letter-spacing: 0.01em;
+  }
+
+  /* Links */
+  a {
+    transition: color 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+                opacity 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  /* Smooth transitions for theme switching - enhanced */
+  *,
+  *::before,
+  *::after {
+    transition-property: background-color, border-color, color, fill, stroke, box-shadow, opacity;
+    transition-timing-function: var(--theme-transition-timing);
+    transition-duration: var(--theme-transition-duration);
+  }
+
+  /* Exclude certain elements from transitions for performance */
+  img,
+  svg,
+  video,
+  canvas,
+  iframe {
+    transition-property: opacity, transform;
+  }
+
+  /* Force transitions for theme-sensitive properties */
+  [data-theme-transition] {
+    transition-property: background-color, border-color, color, fill, stroke, box-shadow;
+    transition-duration: var(--theme-transition-duration);
+    transition-timing-function: var(--theme-transition-timing);
+  }
+}
+
+@layer components {
+  /* Luxury button styles - Enhanced */
+  .btn-primary {
+    @apply px-8 py-4 bg-light-text-accent dark:bg-dark-text-accent text-white font-semibold rounded-xl shadow-soft hover:shadow-soft-lg hover:scale-105 active:scale-95 transition-all duration-300;
+    outline: none;
+  }
+
+  .btn-primary:focus-visible {
+    @apply ring-4 ring-offset-4;
+    --tw-ring-color: rgba(122, 95, 63, 0.3);
+    --tw-ring-offset-color: var(--color-light-bg-primary);
+  }
+
+  .dark .btn-primary:focus-visible {
+    --tw-ring-color: rgba(212, 175, 122, 0.3);
+    --tw-ring-offset-color: var(--color-dark-bg-primary);
+  }
+
+  .btn-primary:disabled {
+    @apply opacity-50 cursor-not-allowed hover:scale-100 hover:shadow-soft;
+  }
+
+  .btn-secondary {
+    @apply px-8 py-4 bg-light-bg-secondary dark:bg-dark-bg-secondary text-light-text-primary dark:text-dark-text-primary font-semibold rounded-xl border transition-all duration-300 hover:scale-105 active:scale-95 hover:shadow-soft;
+    border-color: rgba(74, 74, 74, 0.2);
+    outline: none;
+  }
+
+  .dark .btn-secondary {
+    border-color: rgba(192, 192, 192, 0.2);
+  }
+
+  .btn-secondary:hover {
+    border-color: rgba(74, 74, 74, 0.3);
+  }
+
+  .dark .btn-secondary:hover {
+    border-color: rgba(192, 192, 192, 0.3);
+  }
+
+  .btn-secondary:focus-visible {
+    @apply ring-4 ring-offset-4;
+    --tw-ring-color: rgba(122, 95, 63, 0.3);
+    --tw-ring-offset-color: var(--color-light-bg-primary);
+  }
+
+  .dark .btn-secondary:focus-visible {
+    --tw-ring-color: rgba(212, 175, 122, 0.3);
+    --tw-ring-offset-color: var(--color-dark-bg-primary);
+  }
+
+  /* Luxury card styles - Enhanced */
+  .card-luxury {
+    @apply bg-light-bg-primary dark:bg-dark-bg-primary rounded-2xl shadow-soft hover:shadow-luxury transition-all duration-500 overflow-hidden;
+  }
+
+  .card-luxury:hover {
+    transform: translateY(-4px);
+  }
+
+  /* Focus styles for accessibility - Enhanced */
+  .focus-visible {
+    @apply outline-none ring-4 ring-offset-4 ring-offset-light-bg-primary dark:ring-offset-dark-bg-primary ring-light-text-accent/40 dark:ring-dark-text-accent/40;
+  }
+
+  /* Smooth page transitions */
+  .page-transition {
+    animation: pageFadeIn 0.5s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  }
+
+  @keyframes pageFadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(24px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Skeleton loading animation */
+  @keyframes shimmer {
+    0% {
+      background-position: -1000px 0;
+    }
+    100% {
+      background-position: 1000px 0;
+    }
+  }
+
+  .animate-shimmer {
+    background-size: 1000px 100%;
+    animation: shimmer 2s infinite linear;
+  }
+
+  /* Fade-in animation for product grid - Enhanced */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(32px) scale(0.96);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.7s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    opacity: 0;
+  }
+
+  /* Pulse animation for loading states */
+  @keyframes pulse-soft {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.6;
+    }
+  }
+
+  .animate-pulse-soft {
+    animation: pulse-soft 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  /* Slide up animation */
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(16px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  /* Slide in from left animation */
+  @keyframes slideInLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  .animate-slide-in-left {
+    animation: slideInLeft 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  /* Fade in up animation */
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-fade-in-up {
+    animation: fadeInUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    opacity: 0;
+  }
+
+  /* Progress bar animation for carousel indicators */
+  @keyframes progressBar {
+    from {
+      width: 0%;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  .animate-progress-bar {
+    animation: progressBar linear forwards;
+  }
+
+  /* Floating particles animation */
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0) translateX(0);
+      opacity: 0.3;
+    }
+    25% {
+      transform: translateY(-20px) translateX(10px);
+      opacity: 0.5;
+    }
+    50% {
+      transform: translateY(-40px) translateX(-10px);
+      opacity: 0.7;
+    }
+    75% {
+      transform: translateY(-20px) translateX(5px);
+      opacity: 0.5;
+    }
+  }
+
+  .animate-float {
+    animation: float ease-in-out infinite;
+  }
+
+  /* Hover lift effect */
+  .hover-lift {
+    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1),
+                box-shadow 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .hover-lift:hover {
+    transform: translateY(-6px);
+  }
+}
+
+@layer utilities {
+  /* RTL-aware grid utilities */
+  .grid-rtl-safe {
+    direction: inherit;
+  }
+}
+

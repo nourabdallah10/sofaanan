@@ -1,0 +1,2695 @@
+[
+  {
+    "id": "bed-001",
+    "slug": "Product1",
+    "category": "Beds",
+    "name": {
+      "en": "Vertical Tufted Wingback Bed",
+      "he": "מיטת וינגבק עם חריצים אנכיים"
+    },
+    "shortDescription": {
+      "en": "Elegant platform bed with vertical channel tufting and wingback headboard design.",
+      "he": "מיטת פלטפורמה אלגנטית עם חריצים אנכיים ועיצוב ראש מיטה וינגבק."
+    },
+    "fullDescription": {
+      "en": "Vertical Channel Tufting: This refers to the headboard design. The padded, vertical lines running up and down the headboard are called \"channels.\" This gives the bed a modern, elongated look.\n\nWingback: If you look closely at the sides of the headboard, they curve slightly forward, enclosing the top of the bed. This is known as a \"wingback\" style, adding a touch of coziness and elegance.\n\nPlatform Bed: The bed frame features wooden slats running across the base. This indicates it is a platform bed, designed to support a mattress directly without the need for a box spring.\n\nUpholstered: The entire frame (headboard, footboard, and side rails) is covered in fabric (likely velvet or a microfiber suede) rather than showing exposed wood or metal.",
+      "he": "חריצים אנכיים: זה מתייחס לעיצוב ראש המיטה. הקווים האנכיים המרופדים שעוברים מעלה ומטה על ראש המיטה נקראים \"ערוצים\". זה מעניק למיטה מראה מודרני וארוך.\n\nוינגבק: אם תסתכלו מקרוב על צידי ראש המיטה, הם מתעקלים קלות קדימה, סוגרים על חלקה העליון של המיטה. זה נקרא סגנון \"וינגבק\", המוסיף נופך של נוחות ואלגנטיות.\n\nמיטת פלטפורמה: מסגרת המיטה כוללת קרשים עץ העוברים לרוחב הבסיס. זה מציין שזו מיטת פלטפורמה, שתוכננה לתמוך במזרן ישירות ללא צורך בקופסת קפיצים.\n\nמרופד: כל המסגרת (ראש המיטה, רגל המיטה וצידי המסגרת) מכוסה בבד (כנראה קטיפה או סווד מיקרופייבר) ולא מציגה עץ או מתכת חשופים."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      "Velvet or microfiber suede fabric",
+      "Solid wood frame with slats",
+      "High-density foam padding",
+      "Upholstered headboard, footboard, and side rails"
+    ],
+    "price": 7200,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.184Z"
+  },
+  {
+    "id": "bed-002",
+    "slug": "Product10",
+    "category": "Beds",
+    "name": {
+      "en": "Upholstered Single Bed with Pull-out Trundle",
+      "he": "מיטת יחיד מרופדת עם מיטת טרנדל נשלפת"
+    },
+    "shortDescription": {
+      "en": "Space-saving single bed with pull-out trundle mechanism for extra sleeping space.",
+      "he": "מיטת יחיד חוסכת מקום עם מנגנון טרנדל נשלף לחלל שינה נוסף."
+    },
+    "fullDescription": {
+      "en": "Trundle Bed Mechanism: This is a standard bed frame with a second, lower bed stored underneath it on wheels or casters.\n\nFunction: The lower section (the \"trundle\") rolls out to provide an extra sleeping space for guests or sleepovers.\n\nKey Identifier: You can see the second set of slats pulled out from the side, sitting lower than the main frame.\n\nUpholstered Design: The entire bed frame is covered in premium fabric, providing a soft and elegant appearance while offering additional sleeping capacity in a compact space.",
+      "he": "מנגנון מיטת טרנדל: זו מסגרת מיטה סטנדרטית עם מיטה שנייה ונמוכה יותר המאוחסנת מתחתיה על גלגלים או גלגליות.\n\nפונקציונליות: החלק התחתון (\"הטרנדל\") מתגלגל החוצה כדי לספק חלל שינה נוסף לאורחים או למסיבות פיג'מה.\n\nמזהה מרכזי: ניתן לראות את מערכת הקרשים השנייה נשלפת מהצד, יושבת נמוך יותר מהמסגרת הראשית.\n\nעיצוב מרופד: כל מסגרת המיטה מכוסה בבד יוקרתי, המעניק מראה רך ואלגנטי תוך הצעת קיבולת שינה נוספת בחלל קומפקטי."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      "Premium upholstered fabric",
+      "Solid wood frame with slats",
+      "Wheels or casters for trundle mechanism",
+      "High-density foam padding"
+    ],
+    "price": 7400,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.185Z"
+  },
+  {
+    "id": "bed-003",
+    "slug": "Product11",
+    "category": "Beds",
+    "name": {
+      "en": "The Deep Teal Dreamer",
+      "he": "חולמת הטיל העמוק"
+    },
+    "shortDescription": {
+      "en": "Modern luxury bed with rich velvet upholstery and dramatic channel tufting in deep teal.",
+      "he": "מיטה יוקרתית מודרנית עם ריפוד קטיפה עשיר וחריצים דרמטיים בטיל עמוק."
+    },
+    "fullDescription": {
+      "en": "This modern luxury bed features a rich velvet upholstery in deep teal or emerald green with distinctive vertical channel tufting throughout the entire frame. The dramatically tall headboard creates a striking focal point with its padded vertical segments and rounded top edge, while the matching footboard and side rails maintain the same textured, boxy silhouette.\n\nThe bed is fully upholstered in velvet or plush microfiber fabric, providing a jewel-tone opulent appearance. It features a slatted foundation system with a central support beam for stability, designed to support a mattress directly without a box spring. Low-profile dark legs give the bed a slightly elevated, modern stance.",
+      "he": "מיטה יוקרתית מודרנית זו מציגה ריפוד קטיפה עשיר בטיל עמוק או ירוק אזמרגד עם חריצים אנכיים ייחודיים לאורך כל המסגרת. ראש המיטה הגבוה במיוחד יוצר נקודת מוקד מרשימה עם מקטעים מרופדים אנכיים וקצה עליון מעוגל, בעוד רגל המיטה וצידי המסגרת התואמים שומרים על אותו סילואטה מקושת ומרובעת.\n\nהמיטה מרופדת לחלוטין בקטיפה או בבד מיקרופייבר רך, המעניק מראה ראוותני בגוון תכשיט. היא כוללת מערכת יסוד עם קרשים עם קורת תמיכה מרכזית ליציבות, שתוכננה לתמוך במזרן ישירות ללא קופסת קפיצים. רגליים כהות פרופיל נמוך מעניקות למיטה עמידה מוגבהת ומודרנית."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      {
+        "en": "Rich velvet or plush microfiber fabric (deep teal/emerald green)",
+        "he": "בד קטיפה עשיר או מיקרופייבר רך (טיל עמוק/ירוק אזמרגד)"
+      },
+      {
+        "en": "Solid wood or engineered wood frame",
+        "he": "מסגרת עץ מלא או עץ מהונדס"
+      },
+      {
+        "en": "Light-colored wood slats (pine or spruce)",
+        "he": "קרשים מעץ בהיר (אורן או אשוח)"
+      },
+      {
+        "en": "Central wooden support beam",
+        "he": "קורת תמיכה מרכזית מעץ"
+      },
+      {
+        "en": "Channel tufting with high-density foam padding",
+        "he": "חריצים עם ריפוד קצף בצפיפות גבוהה"
+      },
+      {
+        "en": "Low-profile dark metal or wood legs",
+        "he": "רגליים כהות פרופיל נמוך ממתכת או עץ"
+      }
+    ],
+    "price": 7600,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.186Z"
+  },
+  {
+    "id": "bed-004",
+    "slug": "Product12",
+    "category": "Beds",
+    "name": {
+      "en": "The Sterling Channel Bed",
+      "he": "מיטת הערוצים הכסופה"
+    },
+    "shortDescription": {
+      "en": "Contemporary luxury bed with full upholstery and vertical channel tufting in sophisticated charcoal gray.",
+      "he": "מיטה יוקרתית מודרנית עם ריפוד מלא וחריצים אנכיים באפור פחם מעודן."
+    },
+    "fullDescription": {
+      "en": "This bed exemplifies Modern Glam or Contemporary Luxury style with substantial upholstery and distinct vertical lines. The entire frame—headboard, footboard, and side rails—features channel tufting with vertical padded sections that add texture and structure throughout.\n\nThe tall, commanding headboard extends high above the frame with straight vertical tufting for a streamlined look, while the substantial footboard and deep side rails create a cohesive, fully upholstered \"box\" silhouette. The bed is upholstered in luxurious velvet or plush microfiber fabric in sophisticated charcoal gray or sterling grey—a deep neutral tone that is versatile and modern.\n\nThe bed features a slatted foundation system with a central support beam for stability, designed to support a mattress without a box spring. It is supported by low-profile, minimal dark-colored legs (wood or metal) that keep the focus on the elegant upholstered body.",
+      "he": "מיטה זו מגלמת סגנון גלאם מודרני או יוקרה עכשווית עם ריפוד משמעותי וקווים אנכיים ייחודיים. כל המסגרת—ראש המיטה, רגל המיטה וצידי המסגרת—כוללת חריצים עם מקטעים מרופדים אנכיים המוסיפים מרקם ומבנה לכל אורך.\n\nראש המיטה הגבוה והרושם נמתח גבוה מעל המסגרת עם חריצים אנכיים ישרים למראה מוארך, בעוד רגל המיטה המשמעותית וצידי המסגרת העמוקים יוצרים סילואטה \"קופסה\" מרופדת לחלוטין וקוהרנטית. המיטה מרופדת בקטיפה יוקרתית או בבד מיקרופייבר רך באפור פחם מעודן או אפור כסף—גוון נייטרלי עמוק שהוא רב-תכליתי ומודרני.\n\nהמיטה כוללת מערכת יסוד עם קרשים עם קורת תמיכה מרכזית ליציבות, שתוכננה לתמוך במזרן ללא קופסת קפיצים. היא נתמכת ברגליים כהות פרופיל נמוך ומינימליסטיות (עץ או מתכת) שמשאירות את המיקוד על גוף המיטה המרופד והאלגנטי."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      "Velvet or plush microfiber fabric (charcoal gray/sterling grey)",
+      "Solid wood or engineered wood frame",
+      "Light-colored wood slats",
+      "Central support beam",
+      "Channel tufting with padded vertical sections",
+      "Low-profile dark wood or metal legs"
+    ],
+    "price": 7800,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.186Z"
+  },
+  {
+    "id": "bed-005",
+    "slug": "Product2",
+    "category": "Beds",
+    "name": {
+      "en": "The Black Velvet Pillar",
+      "he": "עמוד הקטיפה השחורה"
+    },
+    "shortDescription": {
+      "en": "Bold modern glam bed with full channel tufting in deep black velvet, creating an elegant focal point.",
+      "he": "מיטת גלאם מודרנית נועזת עם חריצים מלאים בקטיפה שחורה עמוקה, יוצרת נקודת מוקד אלגנטית."
+    },
+    "fullDescription": {
+      "en": "This bed embodies Modern Glam or Contemporary Luxury style, serving as a bold, elegant focal point in any bedroom. The entire frame is fully upholstered with channel tufting—distinct vertical padded segments that create a clean, ribbed, and structured look on all sides.\n\nThe tall, substantial headboard provides comfortable back support with clean and uniform vertical channels. The footboard and side rails feature the same channel tufting, creating a seamless, padded look around the entire frame. The bed is upholstered in luxurious velvet or plush microfiber fabric in deep, rich black or deep charcoal, giving it a sleek, high-end appearance.\n\nThe bed features a slatted foundation system with evenly distributed light-colored wood slats and central support beam(s) with legs beneath for stability. It is supported by low-profile, minimal dark-colored legs, keeping the frame close to the floor for a grounded, luxurious look.",
+      "he": "מיטה זו מגלמת סגנון גלאם מודרני או יוקרה עכשווית, משמשת כנקודת מוקד נועזת ואלגנטית בכל חדר שינה. כל המסגרת מרופדת לחלוטין עם חריצים—מקטעים מרופדים אנכיים ייחודיים היוצרים מראה נקי, מצולע ומבני מכל הצדדים.\n\nראש המיטה הגבוה והמשמעותי מספק תמיכה נוחה לגב עם ערוצים אנכיים נקיים ואחידים. רגל המיטה וצידי המסגרת כוללים את אותם חריצים, יוצרים מראה מרופד ללא תפרים סביב כל המסגרת. המיטה מרופדת בקטיפה יוקרתית או בבד מיקרופייבר רך בשחור עמוק או פחם עמוק, המעניק לה מראה חלק ומעוצב ברמה גבוהה.\n\nהמיטה כוללת מערכת יסוד עם קרשים עם קרשים מעץ בהיר מופצים באופן שווה וקורת תמיכה מרכזית עם רגליים מתחת ליציבות. היא נתמכת ברגליים כהות פרופיל נמוך ומינימליסטיות, המשאירות את המסגרת קרובה לרצפה למראה מקורקע ויוקרתי."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      "Velvet or plush microfiber fabric (deep black/charcoal)",
+      "Solid wood or engineered wood frame",
+      "Light-colored wood slats",
+      "Central support beam with legs",
+      "Channel tufting with vertical padded segments",
+      "Low-profile minimal dark legs"
+    ],
+    "price": 8000,
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.186Z"
+  },
+  {
+    "id": "bed-006",
+    "slug": "Product3",
+    "category": "Beds",
+    "name": {
+      "en": "The Minimalist Platform",
+      "he": "הפלטפורמה המינימליסטית"
+    },
+    "shortDescription": {
+      "en": "Clean minimalist platform bed with simple upholstered panels in light neutral tones.",
+      "he": "מיטת פלטפורמה מינימליסטית נקייה עם פאנלים מרופדים פשוטים בגוונים נייטרליים בהירים."
+    },
+    "fullDescription": {
+      "en": "This bed embodies Minimalist, Contemporary, or Modern Platform style with its defining feature being the absence of elaborate tufting in favor of large, simple upholstered panels. The bed is fully upholstered in solid fabric with sharp, visible seams that segment the pieces into large, architectural sections, giving it a clean, structured look.\n\nThe low-profile headboard is divided into two large rectangular sections by a single vertical seam, with sides extending slightly past the mattress width. The wide, substantial footboard and side rails create a visual \"frame\" around the mattress, sitting almost directly on the floor for a very grounded, low-slung appearance.\n\nThe bed is upholstered in a woven fabric such as linen-look, textured cotton, or soft-touch faux suede in light beige, off-white, or pale ecru/sand—neutral tones that contribute to a light, airy, and contemporary feel. It features a platform design that holds the mattress directly without a box spring, with the mattress slightly recessed into the frame.",
+      "he": "מיטה זו מגלמת סגנון מינימליסטי, עכשווי או פלטפורמה מודרנית, כאשר המאפיין המגדיר שלה הוא היעדר חריצים מורכבים לטובת פאנלים מרופדים פשוטים וגדולים. המיטה מרופדת לחלוטין בבד מוצק עם תפרים חדים וגלויים המחלקים את החלקים למקטעים אדריכליים גדולים, המעניקים לה מראה נקי ומבני.\n\nראש המיטה בעל פרופיל נמוך מחולק לשני מקטעים מלבניים גדולים על ידי תפר אנכי יחיד, עם צדדים הנמתחים מעט מעבר לרוחב המזרן. רגל המיטה והמסגרת הרחבים והמשמעותיים יוצרים \"מסגרת\" ויזואלית סביב המזרן, יושבים כמעט ישירות על הרצפה למראה מקורקע ונמוך מאוד.\n\nהמיטה מרופדת בבד ארוג כמו מראה פשתן, כותנה מקושתת, או סווד מלאכותי רך בבייג' בהיר, לבן שמנת, או אקרו חיוור/חול—גוונים נייטרליים התורמים לתחושה קלילה, אוורירית ועכשווית. היא כוללת עיצוב פלטפורמה המחזיק את המזרן ישירות ללא קופסת קפיצים, עם המזרן שקוע מעט במסגרת."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      "Woven fabric (linen-look, textured cotton, or faux suede)",
+      "Solid wood or engineered wood frame",
+      "Thick block-like padding and upholstery",
+      "Platform design with low-profile base"
+    ],
+    "price": 8200,
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.186Z"
+  },
+  {
+    "id": "bed-007",
+    "slug": "Product4",
+    "category": "Beds",
+    "name": {
+      "en": "Upholstered Kids Bed",
+      "he": "מיטת ילדים מרופדת"
+    },
+    "shortDescription": {
+      "en": "Luxurious kids' bed with scalloped princess-style headboard in pink velvet, featuring trundle or storage drawer.",
+      "he": "מיטת ילדים יוקרתית עם ראש מיטה מעוצב בסגנון נסיכה בקטיפה ורודה, כוללת מיטת טרנדל או מגירת אחסון."
+    },
+    "fullDescription": {
+      "en": "This is a Kids' Single Bed or Daybed designed with a luxurious \"princess\" aesthetic, likely featuring a trundle bed or storage drawer underneath (indicated by the pull tab on the lower front that suggests it slides out).\n\nThe bed features a distinctive scalloped or crowned headboard with a curved, elegant shape, giving it a regal, luxury style. The headboard is padded and upholstered in soft pink velvet or similar plush fabric. The headboard can be personalized with embroidery or appliqué, such as a name (e.g., \"Shahar\" in Hebrew) along with a small crown graphic, making it perfect for a custom-made, personalized children's bedroom.\n\nThe bed is designed to accommodate a standard single mattress (spring or foam mattress, potentially Tencel), providing comfort and style for a child's room with an elegant, princess-inspired design.",
+      "he": "זו מיטת יחיד לילדים או מיטת יום מעוצבת עם אסתטיקה יוקרתית \"נסיכה\", כנראה כוללת מיטת טרנדל או מגירת אחסון מתחת (המצוין על ידי לשונית משיכה בחזית התחתונה שמציעה שהיא נשלפת החוצה).\n\nהמיטה כוללת ראש מיטה מעוצב או מקומר ייחודי עם צורה מעוגלת ואלגנטית, המעניק לה סגנון מלכותי ויוקרתי. ראש המיטה מרופד ומרופד בקטיפה ורודה רכה או בבד רך דומה. ראש המיטה ניתן להתאמה אישית עם רקמה או אפליקציה, כגון שם (למשל \"שחר\" בעברית) יחד עם גרפיקת כתר קטנה, מה שהופך אותה למושלמת לחדר שינה מותאם אישית לילדים.\n\nהמיטה תוכננה להכיל מזרן יחיד סטנדרטי (מזרן קפיצים או קצף, פוטנציאלית Tencel), המספק נוחות וסטייל לחדר ילדים עם עיצוב אלגנטי בהשראת נסיכה."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      "Pink velvet or soft plush upholstery fabric",
+      "Solid wood frame",
+      "Padded scalloped/crowned headboard",
+      "Trundle bed or storage drawer mechanism",
+      "Personalization option (embroidery/appliqué with name and crown graphic)"
+    ],
+    "price": 8400,
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.186Z"
+  },
+  {
+    "id": "bed-008",
+    "slug": "Product5",
+    "category": "Beds",
+    "name": {
+      "en": "Cloud Bed",
+      "he": "מיטת ענן"
+    },
+    "shortDescription": {
+      "en": "Modern platform bed with vertical channel tufting and fully upholstered frame in soft, luxurious fabric.",
+      "he": "מיטת פלטפורמה מודרנית עם חריצים אנכיים ומסגרת מרופדת לחלוטין בבד רך ויוקרתי."
+    },
+    "fullDescription": {
+      "en": "This modern platform bed features vertical channel tufting as its defining characteristic—distinct vertical padded lines or \"channels\" that create a sleek, modern, and high-end aesthetic, rather than traditional diamond button tufting patterns.\n\nThe entire frame—headboard, footboard, and side rails—is fully upholstered and padded in soft, durable fabric such as velvet, linen-blend, or polyester, giving it a luxurious, unified appearance. As a platform bed, it is designed to support a mattress directly on a system of wooden slats or a solid deck, often eliminating the need for a separate box spring. This contemporary design combines comfort and sophisticated style, perfect for modern bedrooms.",
+      "he": "מיטת פלטפורמה מודרנית זו כוללת חריצים אנכיים כמאפיין המגדיר שלה—קווים מרופדים אנכיים ייחודיים או \"ערוצים\" היוצרים אסתטיקה חלקה, מודרנית ורמה גבוהה, בניגוד לדפוסי חריצים יהלומיים מסורתיים.\n\nכל המסגרת—ראש המיטה, רגל המיטה וצידי המסגרת—מרופדת ומרופדת לחלוטין בבד רך ועמיד כמו קטיפה, תערובת פשתן או פוליאסטר, המעניק לה מראה יוקרתי ואחיד. כמיטת פלטפורמה, היא תוכננה לתמוך במזרן ישירות על מערכת קרשים מעץ או סיפון מוצק, לעתים קרובות מבטלת את הצורך בקופסת קפיצים נפרדת. עיצוב עכשווי זה משלב נוחות וסטייל מתוחכם, מושלם לחדרי שינה מודרניים."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      "Soft, durable fabric (velvet, linen-blend, or polyester)",
+      "Solid wood or engineered wood frame",
+      "Wooden slats or solid deck platform",
+      "Vertical channel tufting with padding",
+      "Fully upholstered headboard, footboard, and side rails"
+    ],
+    "price": 8600,
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg",
+      "5.jpg",
+      "6.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.186Z"
+  },
+  {
+    "id": "bed-009",
+    "slug": "Product6",
+    "category": "Beds",
+    "name": {
+      "en": "Upholstered Ottoman Bed",
+      "he": "מיטת אוטומן מרופדת"
+    },
+    "shortDescription": {
+      "en": "Contemporary storage bed with hydraulic lift mechanism and elegant vertical channel tufting in grey fabric.",
+      "he": "מיטת אחסון עכשווית עם מנגנון הרמה הידראולי וחריצים אנכיים אלגנטיים בבד אפור."
+    },
+    "fullDescription": {
+      "en": "This Ottoman Storage Bed features a hydraulic or gas-lift mechanism that allows the mattress platform to lift from the foot of the bed, revealing a large, full-size storage area underneath—perfect for storing linens, seasonal clothing, or other items.\n\nThe bed showcases contemporary luxury design with a tall headboard featuring elegant vertical channel tufting, creating soft, deep vertical lines for a high-end, plush appearance. The entire frame is upholstered in sophisticated grey fabric, such as plush velvet, linen-look, or chenille, providing a modern neutral aesthetic.\n\nAs a platform bed, it features a slatted or solid base that supports the mattress directly without requiring a box spring, combining practical storage functionality with stylish contemporary design.",
+      "he": "מיטת אחסון אוטומן זו כוללת מנגנון הידראולי או הרמת גז המאפשר לפלטפורמת המזרן להתרומם מרגל המיטה, חושף אזור אחסון גדול בגודל מלא מתחת—מושלם לאחסון מצעים, בגדי עונה או פריטים אחרים.\n\nהמיטה מציגה עיצוב יוקרה עכשווי עם ראש מיטה גבוה הכולל חריצים אנכיים אלגנטיים, יוצרים קווים אנכיים רכים ועמוקים למראה מתוחכם ומרופד. כל המסגרת מרופדת בבד אפור מתוחכם, כגון קטיפה רכה, מראה פשתן, או שניל, המספק אסתטיקה נייטרלית מודרנית.\n\nכמיטת פלטפורמה, היא כוללת בסיס עם קרשים או מוצק התומך במזרן ישירות ללא צורך בקופסת קפיצים, משלב פונקציונליות אחסון מעשית עם עיצוב עכשווי סטיילי."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      "Grey fabric upholstery (plush velvet, linen-look, or chenille)",
+      "Solid wood or engineered wood frame",
+      "Hydraulic or gas-lift mechanism",
+      "Slatted or solid platform base",
+      "Vertical channel tufting or panel tufting",
+      "Large storage compartment under mattress"
+    ],
+    "price": 8800,
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.186Z"
+  },
+  {
+    "id": "bed-010",
+    "slug": "product7",
+    "category": "Beds",
+    "name": {
+      "en": "Trundle Bed",
+      "he": "מיטת טרנדל"
+    },
+    "shortDescription": {
+      "en": "Space-saving dual bed with pull-out trundle unit, perfect for sleepovers or guest accommodations.",
+      "he": "מיטת כפולה חוסכת מקום עם יחידת טרנדל נשלפת, מושלמת למסיבות פיג'מה או לינה של אורחים."
+    },
+    "fullDescription": {
+      "en": "This space-saving dual bed provides two sleeping surfaces in the space of one, making it ideal for sleepovers or guest accommodations. The bed features a second bed frame (trundle) on wheels or rollers that can be easily pulled out from underneath the main bed using the metal pull-handle on the front.\n\nThe entire frame is fully upholstered in a light-colored, soft fabric such as cream or white velvet, covering the headboard, footboard, and side panels for a luxurious appearance. The main bed has short, upholstered side rails that give it a daybed look and provide a slight safety barrier, making it suitable for younger users.\n\nThe bed accommodates two mattresses: one standard size (likely Twin/Single) for the main bed, and a slightly thinner mattress for the trundle unit, providing comfort and functionality in a compact design.",
+      "he": "מיטת כפולה חוסכת מקום זו מספקת שני משטחי שינה בחלל של אחד, מה שהופך אותה לאידיאלית למסיבות פיג'מה או לינה של אורחים. המיטה כוללת מסגרת מיטה שנייה (טרנדל) על גלגלים או גלגליות שניתן למשוך בקלות מתחת למיטה הראשית באמצעות ידית המשיכה המתכתית בחזית.\n\nכל המסגרת מרופדת לחלוטין בבד רך בצבע בהיר כמו קטיפה שמנת או לבן, המכסה את ראש המיטה, רגל המיטה ופאנלי הצד למראה יוקרתי. למיטה הראשית יש מעקות צד מרופדים קצרים המעניקים לה מראה מיטת יום ומספקים מחסום בטיחות קל, מה שהופך אותה למתאימה למשתמשים צעירים יותר.\n\nהמיטה מכילה שני מזרנים: אחד בגודל סטנדרטי (כנראה יחיד/טווין) למיטה הראשית, ומזרן דק מעט יותר ליחידת הטרנדל, המספק נוחות ופונקציונליות בעיצוב קומפקטי."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      "Light-colored upholstery fabric (cream or white velvet)",
+      "Solid wood frame",
+      "Trundle unit on wheels/rollers",
+      "Metal pull-handle",
+      "Upholstered side rails for safety",
+      "Two mattress accommodation (standard + thinner trundle mattress)"
+    ],
+    "price": 9000,
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.186Z"
+  },
+  {
+    "id": "bed-011",
+    "slug": "Product8",
+    "category": "Beds",
+    "name": {
+      "en": "The Sterling Bed",
+      "he": "מיטת הסטרלינג"
+    },
+    "shortDescription": {
+      "en": "Luxurious platform bed with wingback headboard design in rich sterling grey, elevated on slim metal legs.",
+      "he": "מיטת פלטפורמה יוקרתית עם עיצוב ראש מיטה וינגבק באפור סטרלינג עשיר, מורמת על רגליים מתכת דקות."
+    },
+    "fullDescription": {
+      "en": "The Sterling Bed combines elegant wingback styling with sophisticated platform construction. The defining feature is the wingback headboard, where the sides curve forward to create an enveloping, elegant silhouette that adds both comfort and visual appeal.\n\nThe bed is upholstered in rich sterling grey—a dark, simple, and sophisticated color that provides a timeless, modern aesthetic. The luxurious platform construction features an elevated profile supported by slim metal legs, creating a refined, contemporary look while offering excellent mattress support without requiring a box spring. This combination of wingback design, sterling grey finish, and elevated platform creates a perfect centerpiece for modern luxury bedrooms.",
+      "he": "מיטת הסטרלינג משלבת עיצוב וינגבק אלגנטי עם בניית פלטפורמה מתוחכמת. המאפיין המגדיר הוא ראש המיטה הוינגבק, בו הצדדים מתעקלים קדימה כדי ליצור סילואטה מקיפה ואלגנטית המוסיפה נוחות ומשיכה ויזואלית.\n\nהמיטה מרופדת באפור סטרלינג עשיר—צבע כהה, פשוט ומתוחכם המספק אסתטיקה מודרנית נצחית. בניית הפלטפורמה היוקרתית כוללת פרופיל מורם הנתמך ברגליים מתכת דקות, יוצרת מראה מעודן ועכשווי תוך הצעת תמיכת מזרן מעולה ללא צורך בקופסת קפיצים. שילוב זה של עיצוב וינגבק, גימור אפור סטרלינג, ופלטפורמה מורמת יוצרת נקודת מוקד מושלמת לחדרי שינה יוקרתיים מודרניים."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      "Rich sterling grey upholstery fabric",
+      "Solid wood or engineered wood frame",
+      "Wingback headboard design",
+      "Slim metal legs",
+      "Luxury platform construction",
+      "High-density foam padding"
+    ],
+    "price": 9200,
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.186Z"
+  },
+  {
+    "id": "bed-012",
+    "slug": "Product9",
+    "category": "Beds",
+    "name": {
+      "en": "Traditional Bed",
+      "he": "מיטה מסורתית"
+    },
+    "shortDescription": {
+      "en": "Classic wingback bed with diamond button-tufting and nailhead trim in luxurious velvet upholstery.",
+      "he": "מיטת וינגבק קלאסית עם חריצי יהלום וכפתורים ופיניש מסמרי ראש בקטיפה יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This traditional bed features a tall wingback headboard with curved sides that wrap around the mattress, creating a cozy enclosure. The headboard showcases classic diamond button-tufting—a decorative grid pattern with buttons that adds texture and visual depth.\n\nThe entire frame is upholstered in soft velvet or plush fabric, typically in light or medium grey, with decorative nailhead trim along the wing edges. The matching side rails and footboard create a cohesive look. As a platform bed, it supports the mattress directly without a box spring, and is supported by short, tapered wood legs or recessed legs for a grounded, traditional appearance.",
+      "he": "מיטה מסורתית זו כוללת ראש מיטה וינגבק גבוה עם צדדים מעוקלים הסוגרים על המזרן, יוצרים התקפלות נוחה. ראש המיטה מציג חריצי יהלום קלאסיים עם כפתורים—דפוס רשת דקורטיבי עם כפתורים המוסיף מרקם ועומק ויזואלי.\n\nכל המסגרת מרופדת בקטיפה רכה או בבד רך, בדרך כלל באפור בהיר או בינוני, עם פיניש מסמרי ראש דקורטיבי לאורך קצוות הכנפיים. צידי המסגרת ורגל המיטה התואמים יוצרים מראה קוהרנטי. כמיטת פלטפורמה, היא תומכת במזרן ישירות ללא קופסת קפיצים, ונתמכת ברגליים עץ קצרות וצרות או רגליים שקועות למראה מסורתי מקורקע."
+    },
+    "dimensions": {
+      "width": 200,
+      "height": 120,
+      "depth": 220
+    },
+    "materials": [
+      "Velvet or plush fabric (light or medium grey)",
+      "Solid wood frame",
+      "Diamond button-tufting",
+      "Nailhead trim",
+      "Tapered wood legs or recessed legs",
+      "Platform construction (no box spring required)"
+    ],
+    "price": 9400,
+    "images": [
+      "IMG-20251209-WA0127.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.186Z"
+  },
+  {
+    "id": "couch-001",
+    "slug": "Product1",
+    "category": "Couches",
+    "name": {
+      "en": "Low-Profile Modular Sectional",
+      "he": "ספה מודולרית נמוכה"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 8150,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.188Z"
+  },
+  {
+    "id": "couch-002",
+    "slug": "Product2",
+    "category": "Couches",
+    "name": {
+      "en": "Curved Chaise Sectional",
+      "he": "ספה מעוצבת עם שרפרף מעוגל"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 8300,
+    "images": [
+      "2.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.188Z"
+  },
+  {
+    "id": "couch-003",
+    "slug": "Product3",
+    "category": "Couches",
+    "name": {
+      "en": "Oversized Ribbed Chaise",
+      "he": "שרפרף גדול עם חריצים"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 8450,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.188Z"
+  },
+  {
+    "id": "couch-004",
+    "slug": "Product4",
+    "category": "Couches",
+    "name": {
+      "en": "Cream Corduroy Sofa Set",
+      "he": "סט ספות קורדרוי שמנת"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 8600,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.188Z"
+  },
+  {
+    "id": "couch-005",
+    "slug": "Product5",
+    "category": "Couches",
+    "name": {
+      "en": "Straight Sofa with Ottoman",
+      "he": "ספה ישרה עם שרפרף"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 8750,
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.188Z"
+  },
+  {
+    "id": "couch-006",
+    "slug": "Product6",
+    "category": "Couches",
+    "name": {
+      "en": "Beige Plush Sofa Set",
+      "he": "סט ספות ביג' פלוש"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 8900,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.188Z"
+  },
+  {
+    "id": "couch-007",
+    "slug": "Product7",
+    "category": "Couches",
+    "name": {
+      "en": "Grey Modular Sofa with Ottoman",
+      "he": "ספה מודולרית אפורה עם שרפרף"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 9050,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.188Z"
+  },
+  {
+    "id": "couch-008",
+    "slug": "Product8",
+    "category": "Couches",
+    "name": {
+      "en": "Grey Corduroy Sectional",
+      "he": "ספה קורדרוי אפורה"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 9200,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.188Z"
+  },
+  {
+    "id": "couch-009",
+    "slug": "Product9",
+    "category": "Couches",
+    "name": {
+      "en": "Jumbo Corduroy Sectional",
+      "he": "ספה קורדרוי ענקית"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 9350,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.188Z"
+  },
+  {
+    "id": "couch-010",
+    "slug": "Product10",
+    "category": "Couches",
+    "name": {
+      "en": "L-Shaped Corner Sofa",
+      "he": "ספה פינתית בצורת L"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 9500,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.188Z"
+  },
+  {
+    "id": "couch-011",
+    "slug": "Product11",
+    "category": "Couches",
+    "name": {
+      "en": "Minimalist L-Shaped Sectional",
+      "he": "ספה מינימליסטית בצורת L"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 9650,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.188Z"
+  },
+  {
+    "id": "couch-012",
+    "slug": "Product12",
+    "category": "Couches",
+    "name": {
+      "en": "Charcoal Ribbed Sectional",
+      "he": "ספה עם חריצים בצבע פחם"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 9800,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-013",
+    "slug": "Product13",
+    "category": "Couches",
+    "name": {
+      "en": "Off-White Corduroy Sectional",
+      "he": "ספה קורדרוי לבן שמנת"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 9950,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-014",
+    "slug": "Product14",
+    "category": "Couches",
+    "name": {
+      "en": "Dark Grey Corduroy Sofa",
+      "he": "ספה קורדרוי אפורה כהה"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 10100,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-015",
+    "slug": "Product15",
+    "category": "Couches",
+    "name": {
+      "en": "Slate Corduroy Sofa with Ottoman",
+      "he": "ספה קורדרוי אפורה עם שרפרף"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 10250,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-016",
+    "slug": "Product16",
+    "category": "Couches",
+    "name": {
+      "en": "Corduroy Sectional",
+      "he": "ספה קורדרוי"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 10400,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-017",
+    "slug": "Product17",
+    "category": "Couches",
+    "name": {
+      "en": "Cream Modular Sectional",
+      "he": "ספה מודולרית שמנת"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 10550,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-018",
+    "slug": "Product18",
+    "category": "Couches",
+    "name": {
+      "en": "Neutral Corduroy Corner Sofa",
+      "he": "ספה פינתית קורדרוי נייטרלית"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 10700,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-019",
+    "slug": "Product19",
+    "category": "Couches",
+    "name": {
+      "en": "Crushed Velvet Sofa",
+      "he": "ספת קטיפה מעוכה"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 10850,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-020",
+    "slug": "Product20",
+    "category": "Couches",
+    "name": {
+      "en": "Textured L-Shape Sectional",
+      "he": "ספה בצורת L עם מרקם"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 11000,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-021",
+    "slug": "Product21",
+    "category": "Couches",
+    "name": {
+      "en": "Bouclé Block Sofa",
+      "he": "ספת בוקלה"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 11150,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-022",
+    "slug": "Product22",
+    "category": "Couches",
+    "name": {
+      "en": "Ribbed Velvet Sofa",
+      "he": "ספת קטיפה עם חריצים"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 11300,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-023",
+    "slug": "Product23",
+    "category": "Couches",
+    "name": {
+      "en": "Minimalist Suede Sofa",
+      "he": "ספת סווד מינימליסטית"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 11450,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-024",
+    "slug": "Product24",
+    "category": "Couches",
+    "name": {
+      "en": "Modern Low-Profile Sofa",
+      "he": "ספה מודרנית נמוכה"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 11600,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.189Z"
+  },
+  {
+    "id": "couch-025",
+    "slug": "Product25",
+    "category": "Couches",
+    "name": {
+      "en": "Shaggy Plush Sectional",
+      "he": "ספה פלוש שעירה"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 11750,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.190Z"
+  },
+  {
+    "id": "couch-026",
+    "slug": "Product26",
+    "category": "Couches",
+    "name": {
+      "en": "Velvet Block Sofa",
+      "he": "ספת קטיפה"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 11900,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.190Z"
+  },
+  {
+    "id": "couch-027",
+    "slug": "Product27",
+    "category": "Couches",
+    "name": {
+      "en": "Charcoal Ribbed Sectional",
+      "he": "ספה עם חריצים בצבע פחם"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 12050,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.190Z"
+  },
+  {
+    "id": "couch-028",
+    "slug": "Product28",
+    "category": "Couches",
+    "name": {
+      "en": "Bouclé Cloud Sectional",
+      "he": "ספת בוקלה עננית"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 12200,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.190Z"
+  },
+  {
+    "id": "couch-029",
+    "slug": "Product29",
+    "category": "Couches",
+    "name": {
+      "en": "Minimalist L-Shape Sofa",
+      "he": "ספה מינימליסטית בצורת L"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 12350,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.190Z"
+  },
+  {
+    "id": "couch-030",
+    "slug": "Product30",
+    "category": "Couches",
+    "name": {
+      "en": "Low-Profile Linen Sectional",
+      "he": "ספה פשתן נמוכה"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 12500,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.190Z"
+  },
+  {
+    "id": "couch-031",
+    "slug": "Product31",
+    "category": "Couches",
+    "name": {
+      "en": "Ash Grey Ribbed Set",
+      "he": "סט עם חריצים אפור אפר"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 12650,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.190Z"
+  },
+  {
+    "id": "couch-032",
+    "slug": "Product32",
+    "category": "Couches",
+    "name": {
+      "en": "Corduroy Modular Sectional",
+      "he": "ספה מודולרית קורדרוי"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 12800,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.190Z"
+  },
+  {
+    "id": "couch-033",
+    "slug": "Product33",
+    "category": "Couches",
+    "name": {
+      "en": "Deep Graphite Corduroy Sofa",
+      "he": "ספה קורדרוי גרפיט כהה"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 12950,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.190Z"
+  },
+  {
+    "id": "couch-034",
+    "slug": "Product34",
+    "category": "Couches",
+    "name": {
+      "en": "Cream Ribbed Living Set",
+      "he": "סט מגורים עם חריצים שמנת"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 13100,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.190Z"
+  },
+  {
+    "id": "couch-035",
+    "slug": "Product35",
+    "category": "Couches",
+    "name": {
+      "en": "Slate Grey Modular Sofa",
+      "he": "ספה מודולרית אפורה"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 13250,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.191Z"
+  },
+  {
+    "id": "couch-036",
+    "slug": "Product36",
+    "category": "Couches",
+    "name": {
+      "en": "Cocoa Corduroy Bliss",
+      "he": "ספה קורדרוי קקאו"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 13400,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.191Z"
+  },
+  {
+    "id": "couch-037",
+    "slug": "Product37",
+    "category": "Couches",
+    "name": {
+      "en": "Midnight Velvet Corner",
+      "he": "ספה פינתית קטיפה חצות"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 13550,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.191Z"
+  },
+  {
+    "id": "couch-038",
+    "slug": "Product38",
+    "category": "Couches",
+    "name": {
+      "en": "Azure Ribbed Lounger",
+      "he": "כורסה עם חריצים תכלת"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 13700,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.191Z"
+  },
+  {
+    "id": "couch-039",
+    "slug": "Product39",
+    "category": "Couches",
+    "name": {
+      "en": "Sandstone Linen Minimalist",
+      "he": "ספה פשתן מינימליסטית אבן חול"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 13850,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.191Z"
+  },
+  {
+    "id": "couch-040",
+    "slug": "Product40",
+    "category": "Couches",
+    "name": {
+      "en": "Cream Ripple Duo",
+      "he": "דואו גלים שמנת"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 14000,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.191Z"
+  },
+  {
+    "id": "couch-041",
+    "slug": "Product41",
+    "category": "Couches",
+    "name": {
+      "en": "Alabaster Scandi Set",
+      "he": "סט סקנדי אלביסטר"
+    },
+    "shortDescription": {
+      "en": "Elegant sofa with premium comfort.",
+      "he": "ספה אלגנטית עם נוחות יוקרתית."
+    },
+    "fullDescription": {
+      "en": "This premium sofa offers exceptional comfort and style. Perfect for any living space.",
+      "he": "ספה יוקרתית זו מציעה נוחות וסטייל יוצאי דופן. מושלמת לכל מרחב מגורים."
+    },
+    "dimensions": {
+      "width": 220,
+      "height": 85,
+      "depth": 95
+    },
+    "materials": [
+      "Premium fabric",
+      "High-resilience foam",
+      "Solid wood frame"
+    ],
+    "price": 14150,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.191Z"
+  },
+  {
+    "id": "table-001",
+    "slug": "Product1",
+    "category": "Tables",
+    "name": {
+      "en": "Nesting Circular Table",
+      "he": "שולחן עגול מקונן"
+    },
+    "shortDescription": {
+      "en": "Beautiful table with elegant design.",
+      "he": "שולחן יפה עם עיצוב אלגנטי."
+    },
+    "fullDescription": {
+      "en": "This elegant table combines functionality with style. Perfect addition to any room.",
+      "he": "שולחן אלגנטי זה משלב פונקציונליות עם סטייל. תוספת מושלמת לכל חדר."
+    },
+    "dimensions": {
+      "width": 150,
+      "height": 75,
+      "depth": 80
+    },
+    "materials": [
+      "Premium wood",
+      "Protective finish",
+      "Metal hardware"
+    ],
+    "price": 3800,
+    "images": [
+      "1.jpg",
+      "2.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.192Z"
+  },
+  {
+    "id": "table-002",
+    "slug": "Product2",
+    "category": "Tables",
+    "name": {
+      "en": "Elliptical Table",
+      "he": "שולחן אליפטי"
+    },
+    "shortDescription": {
+      "en": "Beautiful table with elegant design.",
+      "he": "שולחן יפה עם עיצוב אלגנטי."
+    },
+    "fullDescription": {
+      "en": "This elegant table combines functionality with style. Perfect addition to any room.",
+      "he": "שולחן אלגנטי זה משלב פונקציונליות עם סטייל. תוספת מושלמת לכל חדר."
+    },
+    "dimensions": {
+      "width": 150,
+      "height": 75,
+      "depth": 80
+    },
+    "materials": [
+      "Premium wood",
+      "Protective finish",
+      "Metal hardware"
+    ],
+    "price": 4100,
+    "images": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg",
+      "4.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.192Z"
+  },
+  {
+    "id": "table-003",
+    "slug": "Product3",
+    "category": "Tables",
+    "name": {
+      "en": "Capsule Table",
+      "he": "שולחן קפסולה"
+    },
+    "shortDescription": {
+      "en": "Beautiful table with elegant design.",
+      "he": "שולחן יפה עם עיצוב אלגנטי."
+    },
+    "fullDescription": {
+      "en": "This elegant table combines functionality with style. Perfect addition to any room.",
+      "he": "שולחן אלגנטי זה משלב פונקציונליות עם סטייל. תוספת מושלמת לכל חדר."
+    },
+    "dimensions": {
+      "width": 150,
+      "height": 75,
+      "depth": 80
+    },
+    "materials": [
+      "Premium wood",
+      "Protective finish",
+      "Metal hardware"
+    ],
+    "price": 4400,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.192Z"
+  },
+  {
+    "id": "table-004",
+    "slug": "Product4",
+    "category": "Tables",
+    "name": {
+      "en": "Fluted Circular Table",
+      "he": "שולחן עגול מחורר"
+    },
+    "shortDescription": {
+      "en": "Beautiful table with elegant design.",
+      "he": "שולחן יפה עם עיצוב אלגנטי."
+    },
+    "fullDescription": {
+      "en": "This elegant table combines functionality with style. Perfect addition to any room.",
+      "he": "שולחן אלגנטי זה משלב פונקציונליות עם סטייל. תוספת מושלמת לכל חדר."
+    },
+    "dimensions": {
+      "width": 150,
+      "height": 75,
+      "depth": 80
+    },
+    "materials": [
+      "Premium wood",
+      "Protective finish",
+      "Metal hardware"
+    ],
+    "price": 4700,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.192Z"
+  },
+  {
+    "id": "table-005",
+    "slug": "Product5",
+    "category": "Tables",
+    "name": {
+      "en": "Pedestal Round Table",
+      "he": "שולחן עגול על בסיס"
+    },
+    "shortDescription": {
+      "en": "Beautiful table with elegant design.",
+      "he": "שולחן יפה עם עיצוב אלגנטי."
+    },
+    "fullDescription": {
+      "en": "This elegant table combines functionality with style. Perfect addition to any room.",
+      "he": "שולחן אלגנטי זה משלב פונקציונליות עם סטייל. תוספת מושלמת לכל חדר."
+    },
+    "dimensions": {
+      "width": 150,
+      "height": 75,
+      "depth": 80
+    },
+    "materials": [
+      "Premium wood",
+      "Protective finish",
+      "Metal hardware"
+    ],
+    "price": 5000,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.192Z"
+  },
+  {
+    "id": "table-006",
+    "slug": "Product6",
+    "category": "Tables",
+    "name": {
+      "en": "Cylindrical Round Table",
+      "he": "שולחן עגול גלילי"
+    },
+    "shortDescription": {
+      "en": "Beautiful table with elegant design.",
+      "he": "שולחן יפה עם עיצוב אלגנטי."
+    },
+    "fullDescription": {
+      "en": "This elegant table combines functionality with style. Perfect addition to any room.",
+      "he": "שולחן אלגנטי זה משלב פונקציונליות עם סטייל. תוספת מושלמת לכל חדר."
+    },
+    "dimensions": {
+      "width": 150,
+      "height": 75,
+      "depth": 80
+    },
+    "materials": [
+      "Premium wood",
+      "Protective finish",
+      "Metal hardware"
+    ],
+    "price": 5300,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "table-007",
+    "slug": "Product7",
+    "category": "Tables",
+    "name": {
+      "en": "Geometric Rectangular Table",
+      "he": "שולחן מלבני גאומטרי"
+    },
+    "shortDescription": {
+      "en": "Beautiful table with elegant design.",
+      "he": "שולחן יפה עם עיצוב אלגנטי."
+    },
+    "fullDescription": {
+      "en": "This elegant table combines functionality with style. Perfect addition to any room.",
+      "he": "שולחן אלגנטי זה משלב פונקציונליות עם סטייל. תוספת מושלמת לכל חדר."
+    },
+    "dimensions": {
+      "width": 150,
+      "height": 75,
+      "depth": 80
+    },
+    "materials": [
+      "Premium wood",
+      "Protective finish",
+      "Metal hardware"
+    ],
+    "price": 5600,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-001",
+    "slug": "fabric-1",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 1",
+      "he": "בד יוקרתי 1"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 320,
+    "images": [
+      "1.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-002",
+    "slug": "fabric-2",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 2",
+      "he": "בד יוקרתי 2"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 340,
+    "images": [
+      "2.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-003",
+    "slug": "fabric-3",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 3",
+      "he": "בד יוקרתי 3"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 360,
+    "images": [
+      "3.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-004",
+    "slug": "fabric-4",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 4",
+      "he": "בד יוקרתי 4"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 380,
+    "images": [
+      "4.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-005",
+    "slug": "fabric-5",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 5",
+      "he": "בד יוקרתי 5"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 400,
+    "images": [
+      "5.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-006",
+    "slug": "fabric-6",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 6",
+      "he": "בד יוקרתי 6"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 420,
+    "images": [
+      "6.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-007",
+    "slug": "fabric-7",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 7",
+      "he": "בד יוקרתי 7"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 440,
+    "images": [
+      "7.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-008",
+    "slug": "fabric-8",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 8",
+      "he": "בד יוקרתי 8"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 460,
+    "images": [
+      "8.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-009",
+    "slug": "fabric-9",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 9",
+      "he": "בד יוקרתי 9"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 480,
+    "images": [
+      "9.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-010",
+    "slug": "fabric-10",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 10",
+      "he": "בד יוקרתי 10"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 500,
+    "images": [
+      "10.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-011",
+    "slug": "fabric-11",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 11",
+      "he": "בד יוקרתי 11"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 520,
+    "images": [
+      "11.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-012",
+    "slug": "fabric-12",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 12",
+      "he": "בד יוקרתי 12"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 540,
+    "images": [
+      "12.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-013",
+    "slug": "fabric-13",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 13",
+      "he": "בד יוקרתי 13"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 560,
+    "images": [
+      "13.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-014",
+    "slug": "fabric-14",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 14",
+      "he": "בד יוקרתי 14"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 580,
+    "images": [
+      "14.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-015",
+    "slug": "fabric-15",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 15",
+      "he": "בד יוקרתי 15"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 600,
+    "images": [
+      "15.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-016",
+    "slug": "fabric-16",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 16",
+      "he": "בד יוקרתי 16"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 620,
+    "images": [
+      "16.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-017",
+    "slug": "fabric-17",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 17",
+      "he": "בד יוקרתי 17"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 640,
+    "images": [
+      "17.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-018",
+    "slug": "fabric-18",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 18",
+      "he": "בד יוקרתי 18"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 660,
+    "images": [
+      "18.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-019",
+    "slug": "fabric-19",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 19",
+      "he": "בד יוקרתי 19"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 680,
+    "images": [
+      "19.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-020",
+    "slug": "fabric-20",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 20",
+      "he": "בד יוקרתי 20"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 700,
+    "images": [
+      "20.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-021",
+    "slug": "fabric-21",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 21",
+      "he": "בד יוקרתי 21"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 720,
+    "images": [
+      "21.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  },
+  {
+    "id": "fabric-022",
+    "slug": "fabric-22",
+    "category": "Fabrics",
+    "name": {
+      "en": "Premium Fabric 22",
+      "he": "בד יוקרתי 22"
+    },
+    "shortDescription": {
+      "en": "Luxurious fabric perfect for upholstery.",
+      "he": "בד יוקרתי מושלם לריפוד."
+    },
+    "fullDescription": {
+      "en": "High-quality fabric with excellent durability and comfort.",
+      "he": "בד באיכות גבוהה עם עמידות ונוחות מעולים."
+    },
+    "dimensions": {
+      "width": 140,
+      "height": 1,
+      "depth": 140
+    },
+    "materials": [
+      "Premium fabric",
+      "Stain-resistant",
+      "High quality"
+    ],
+    "price": 740,
+    "images": [
+      "22.jpg"
+    ],
+    "createdAt": "2025-12-14T23:14:31.193Z"
+  }
+]

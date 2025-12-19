@@ -1,0 +1,107 @@
+{
+  "common": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "products": "Products",
+    "collections": "Collections",
+    "search": "Search",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "viewAll": "View All",
+    "browseProducts": "Browse Products",
+    "noProductsFound": "No products found",
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry"
+  },
+  "header": {
+    "logo": "ANAN SOFA",
+    "nav": {
+      "home": "Home",
+      "beds": "Beds",
+      "couches": "Couches",
+      "tables": "Tables",
+      "fabrics": "Fabrics",
+      "favorites": "Favorites",
+      "about": "About Us",
+      "contact": "Contact"
+    }
+  },
+  "footer": {
+    "description": "Luxury furniture for your home",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved",
+    "craftedMessage": "Expertly crafted from high-quality wood and premium washable fabrics, each piece is tailored to your space and customized to your vision.",
+    "whatsappContact": "Contact us on WhatsApp:"
+  },
+  "categories": {
+    "beds": "Beds",
+    "couches": "Couches",
+    "tables": "Tables",
+    "fabrics": "Fabrics",
+    "description": {
+      "beds": "Discover our luxurious collection of beds",
+      "couches": "Discover our luxurious collection of couches",
+      "tables": "Discover our luxurious collection of tables",
+      "fabrics": "Discover our luxurious collection of fabrics"
+    }
+  },
+  "home": {
+    "title": "Welcome to Modern Furniture",
+    "subtitle": "Discover luxury furniture for your home",
+    "featuredCategories": "Featured Categories"
+  },
+  "product": {
+    "description": "Description",
+    "fullDescription": "Full Description",
+    "specifications": "Specifications",
+    "dimensions": "Dimensions",
+    "materials": "Materials",
+    "width": "Width",
+    "height": "Height",
+    "depth": "Depth",
+    "price": "Price",
+    "category": "Category",
+    "relatedProducts": "Related Products",
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites",
+    "favorited": "Favorited",
+    "contactUs": "Contact Us",
+    "previousImage": "Previous image",
+    "nextImage": "Next image",
+    "imageCounter": "{{current}} / {{total}}"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "count": "You have {{count}} {{count, plural, one {item} other {items}}} in favorites",
+    "emptyTitle": "No favorites yet",
+    "emptyDescription": "You haven't added any products to favorites yet. Start browsing our collection and add the products you love.",
+    "removeFromFavorites": "Remove from favorites"
+  },
+  "pages": {
+    "about": {
+      "title": "About Us",
+      "content": "About page coming soon..."
+    },
+    "contact": {
+      "title": "Contact",
+      "content": "Contact page coming soon..."
+    },
+    "notFound": {
+      "title": "404",
+      "subtitle": "Page Not Found",
+      "description": "The page you're looking for doesn't exist.",
+      "goHome": "Go Home"
+    }
+  },
+  "breadcrumb": {
+    "home": "Home"
+  }
+}
