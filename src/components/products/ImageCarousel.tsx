@@ -15,7 +15,7 @@ export default function ImageCarousel({
   category,
   slug,
   images,
-  productName,
+  productName: _productName,
 }: ImageCarouselProps) {
   const { t } = useTranslation();
   const [currentIndex, setCurrentIndex] = useState(0);

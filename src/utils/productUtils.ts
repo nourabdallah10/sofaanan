@@ -87,7 +87,7 @@ export function getRelatedProducts(productId: string, limit: number = 4): Produc
  * @param currency - Currency symbol (default: ₪)
  * @returns Formatted price string
  */
-export function formatPrice(price: number, currency: string = '₪'): string {
+export function formatPrice(price: number, _currency: string = '₪'): string {
   return new Intl.NumberFormat('he-IL', {
     style: 'decimal',
     minimumFractionDigits: 0,

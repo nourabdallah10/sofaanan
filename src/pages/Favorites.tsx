@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import PageContainer from '@/components/layout/PageContainer';
-import ProductGrid from '@/components/products/ProductGrid';
 import WhatsAppContact from '@/components/layout/WhatsAppContact';
 import { useProducts } from '@/hooks/useProducts';
 import { useFavorites } from '@/hooks/useFavorites';
@@ -11,7 +10,7 @@ import ProductCard from '@/components/products/ProductCard';
 export default function Favorites() {
   const { t } = useTranslation();
   const allProducts = useProducts();
-  const { getFavoriteProducts, removeFavorite, favoriteCount } = useFavorites();
+  const { getFavoriteProducts, removeFavorite } = useFavorites();
 
   const favoriteProducts = getFavoriteProducts(allProducts);
 
