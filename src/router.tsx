@@ -11,10 +11,11 @@ import About from '@/pages/About';
 import Contact from '@/pages/Contact';
 import NotFound from '@/pages/NotFound';
 
-export const router = createBrowserRouter([
-  {
-    path: '/',
-    element: <Layout />,
+export const router = createBrowserRouter(
+  [
+    {
+      path: '/',
+      element: <Layout />,
     children: [
       {
         index: true,
@@ -58,5 +59,8 @@ export const router = createBrowserRouter([
       },
     ],
   },
-]);
+  {
+    basename: import.meta.env.BASE_URL,
+  }
+);
 

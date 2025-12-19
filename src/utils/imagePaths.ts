@@ -29,7 +29,8 @@ function getCategoryFolderName(category: ProductCategory): string {
  * @returns Path to the logo image
  */
 export function getLogoPath(theme: 'light' | 'dark' = 'light'): string {
-  return theme === 'dark' ? '/Images/logo2.png' : '/Images/logo.png';
+  const base = import.meta.env.BASE_URL;
+  return theme === 'dark' ? `${base}Images/logo2.png` : `${base}Images/logo.png`;
 }
 
 /**
@@ -44,15 +45,16 @@ export function getProductImagePath(
   productSlug: string,
   imageName: string
 ): string {
+  const base = import.meta.env.BASE_URL;
   const folderName = getCategoryFolderName(category);
   
   // Fabrics are stored directly in the Fabrics folder, not in subfolders
   if (category === 'Fabrics') {
-    return `/Images/${folderName}/${imageName}`;
+    return `${base}Images/${folderName}/${imageName}`;
   }
   
   // Other categories have products in subfolders
-  return `/Images/${folderName}/${productSlug}/${imageName}`;
+  return `${base}Images/${folderName}/${productSlug}/${imageName}`;
 }
 
 /**
